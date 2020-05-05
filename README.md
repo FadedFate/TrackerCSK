@@ -3,7 +3,7 @@ A Pure CSK implementation in python, adapted from the python version [circulant_
 
 ## Reference Details regarding the tracking algorithm can be found in the following paper:
 
-[Exploiting the circulantstructure of tracking-by-detection with kernels](http://ieeexplore.ieee.org/stamp/stamp.jsp?arnumber=5539960).    
+[Exploiting the circulantstructure of tracking-by-detection with kernels](https://dl.acm.org/doi/10.1007/978-3-642-33765-9_50).    
 Henriques J F, Caseiro R, Martins P, et al.  
 European conference on computer vision (ECCV), 2012 IEEE Conference.
 
