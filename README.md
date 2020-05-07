@@ -1,7 +1,8 @@
 # TrackerCSK ![](https://img.shields.io/badge/license-MIT-blue)
 A Pure CSK implementation in python, adapted from the python version [circulant_matrix_tracker](https://github.com/rodrigob/circulant_matrix_tracker)
 
-## Reference Details regarding the tracking algorithm can be found in the following paper:
+## Reference  
+Details regarding the tracking algorithm can be found in the following paper:
 
 [Exploiting the circulantstructure of tracking-by-detection with kernels](https://dl.acm.org/doi/10.1007/978-3-642-33765-9_50).    
 Henriques J F, Caseiro R, Martins P, et al.  
